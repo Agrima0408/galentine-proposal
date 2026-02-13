@@ -61,3 +61,23 @@ button:hover{
     opacity: 0;
     transition: 0.3s ease;
 }
+#insta{
+    position: absolute;
+    bottom: 10px;
+    right: 15px;
+    font-size: 14px;
+    color: white;
+}
+
+#insta a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#insta a:hover{
+    text-decoration: underline;
+    color: #ffe6f0;
+}
+
+
